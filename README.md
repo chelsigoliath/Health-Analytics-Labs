@@ -1,1 +1,1 @@
-# Health-Analytics-Lab-1
+# Health-Analytics-Labs
